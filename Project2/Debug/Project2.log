@@ -1,0 +1,8 @@
+﻿  source.c
+C:\Academic\WorkSpace\Project2\Project2\source.c(268,45): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Academic\WorkSpace\Project2\Project2\source.c(269,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Academic\WorkSpace\Project2\Project2\source.c(270,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Academic\WorkSpace\Project2\Project2\source.c(279,51): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Academic\WorkSpace\Project2\Project2\source.c(282,54): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Academic\WorkSpace\Project2\Project2\source.c(672): warning C4715: 'AskIfExit': not all control paths return a value
+  Project2.vcxproj -> C:\Academic\WorkSpace\Project2\Debug\Project2.exe
