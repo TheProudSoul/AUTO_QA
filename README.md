@@ -11,19 +11,19 @@
 
 ## 截图
 
-![初始界面](.\Snap\1.png)
+![初始界面](https://github.com/TheProudSoul/AUTO_QA/blob/master/Snap/1.png)
 
-![简单题](.\Snap\2.png)
+![简单题](https://github.com/TheProudSoul/AUTO_QA/blob/master/Snap/2.png)
 
-![中等题](.\Snap\3.png)
+![中等题](https://github.com/TheProudSoul/AUTO_QA/blob/master/Snap/3.png)
 
-![困难题](.\Snap\4.png)
+![困难题](https://github.com/TheProudSoul/AUTO_QA/blob/master/Snap/4.png)
 
-![历史记录](.\Snap\5.png)
+![历史记录](https://github.com/TheProudSoul/AUTO_QA/blob/master/Snap/5.png)
 
-![About](.\Snap\6.png)
+![About](https://github.com/TheProudSoul/AUTO_QA/blob/master/Snap/6.png)
 
-![退出界面](.\Snap\7.png)
+![退出界面](https://github.com/TheProudSoul/AUTO_QA/blob/master/Snap/7.png)
 
 ## TODO (but will let undo)
 
