@@ -666,8 +666,6 @@ BOOL AskIfExit()
 		return TRUE;
 	case IDCANCEL:
 		return FALSE;
-	default:
-		break;
 	}
 }
 
