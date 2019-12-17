@@ -9,6 +9,7 @@
 1. [tomwillow](https://github.com/tomwillow)/**[2048](https://github.com/tomwillow/2048)**
 2. Windows 程序设计（第五版）
 3. [Windows程序打包，使用VS2017](https://www.jianshu.com/p/be0ea8c04643)
+4. [给VS程序添加管理员权限等](https://blog.csdn.net/wokaowokaowokao12345/article/details/51434847)
 
 ## 截图
 
